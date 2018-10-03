@@ -2,4 +2,5 @@
     <string name="app_name">Mi primer hola mundo en Android Studio</string>
     <string name="hello_world">¡Hola mundo!</string>
     <string name="hello_world_button">Suelo funcionar</string>
+    <string name="texto_pulsado">¿Has pulsado el botón? ¿por qué...?</string>
 </resources>
